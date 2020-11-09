@@ -18,6 +18,7 @@ Pod::Spec.new do |spec|
   spec.name         = "MTSDK"
   spec.version      = "1.0.0"
   spec.summary      = "Extesion some class for coding"
+  spec.swift_version = '4.2'
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -40,7 +41,7 @@ Pod::Spec.new do |spec|
   #
 
   #spec.license      = "MIT (example)"
-  spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  spec.license      = { :type => "MIT", :file => "LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
