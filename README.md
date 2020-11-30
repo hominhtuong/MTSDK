@@ -8,7 +8,7 @@ To integrate MTSDK into your Xcode project using CocoaPods, specify it in your `
 
 ```ruby
 target 'MyApp' do
-  pod 'MTSDK', '~> 1.0'
+  pod 'MTSDK', '~> 2.0'
 end
 ```
 
