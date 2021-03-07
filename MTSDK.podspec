@@ -1,9 +1,9 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "MTSDK"
-  spec.version      = "2.0.0"
+  spec.version      = "2.0.1"
   spec.summary      = "Extesion some class for coding"
-  spec.swift_version = '4.2'
+  spec.swift_version = ['5.1', '5.2', '5.3']
   
   spec.description  = <<-DESC
   This CocoaPods library helps you perform calculation
